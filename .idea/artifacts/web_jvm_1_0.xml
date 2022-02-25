@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="web-jvm-1.0">
+    <output-path>$PROJECT_DIR$/web/build/libs</output-path>
+    <root id="archive" name="web-jvm-1.0.jar">
+      <element id="module-output" name="Test.web.jvmMain" />
+    </root>
+  </artifact>
+</component>

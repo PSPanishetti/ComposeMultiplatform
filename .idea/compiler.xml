@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="untitled.common.commonMain" target="11" />
+      <module name="untitled.common.commonTest" target="11" />
+      <module name="untitled.common.desktopMain" target="11" />
+      <module name="untitled.common.desktopTest" target="11" />
+      <module name="untitled.desktop.commonMain" target="11" />
+      <module name="untitled.desktop.commonTest" target="11" />
+      <module name="untitled.desktop.jvmMain" target="11" />
+      <module name="untitled.desktop.jvmTest" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
